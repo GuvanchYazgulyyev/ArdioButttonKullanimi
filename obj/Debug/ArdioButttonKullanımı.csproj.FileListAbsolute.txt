@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\bin\Debug\ArdioButttonKullanımı.exe.config
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\bin\Debug\ArdioButttonKullanımı.exe
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\bin\Debug\ArdioButttonKullanımı.pdb
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.Form1.resources
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.exe
+C:\Users\Dell\source\repos\C# ders 7\ArdioButttonKullanımı\ArdioButttonKullanımı\obj\Debug\ArdioButttonKullanımı.pdb
